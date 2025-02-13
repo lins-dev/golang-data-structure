@@ -1,4 +1,4 @@
-package exercices
+package exercises
 
 func GetBestMovies() [10]string {
 	return [10]string{

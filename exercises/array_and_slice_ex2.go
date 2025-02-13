@@ -1,4 +1,4 @@
-package exercices
+package exercises
 
 func ArrayAndSliceEx2() []string {
 	bestMoviesDB := GetBestMovies();

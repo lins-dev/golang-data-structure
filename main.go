@@ -1,12 +1,12 @@
 package main
 
 import (
-	"data-structure/exercices"
+	"data-structure/exercises"
 	"fmt"
 )
 
 func main() {
-	movies := exercices.ArrayAndSliceEx2()
+	movies := exercises.ArrayAndSliceEx2()
 
 	fmt.Println(movies)
 	

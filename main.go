@@ -6,7 +6,10 @@ import (
 )
 
 func main() {
-	exercises.MakeUser("Jhon", 27)
+	exercises.WithGoRoutines()
+	exercises.WithoutGoROutines()
+	exercises.WithContext()
+
 	fmt.Println("end of statement")
 	
 }
